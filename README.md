@@ -7,7 +7,7 @@ A Web Development Engineer passionate about building responsive, front-end focus
 🛠 Skills
 Languages: HTML, CSS, JavaScript, Java, Python, SQL, C, C++, ASP.NET
 Concepts: RESTful APIs, DOM Manipulation, MVC Architecture, State Management, Responsive Design
-Tools: VS Code, Git, GitHub, Notepad++
+Tools: VS Code, Git, GitHub, 
 🚀 Featured Projects
 Personal Portfolio Website
 Fully responsive portfolio built with HTML5 & CSS3 — dark theme, smooth scroll navigation, CSS Grid/Flexbox layout, deployed on GitHub Pages.
